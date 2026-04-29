@@ -1,5 +1,5 @@
 # 💫 About Me:
-I'm an IT student<br>I'm currently learning Rust, Java and C++<br>
+I'm an IT student doing a bachelor degree<br>I also work on Colorless Odyssey, available on Steam : ![Colorless Odyssey](https://store.steampowered.com/app/2898850/Colorless_Odyssey/)<br>
 
 
 ## 🌐 Socials:
